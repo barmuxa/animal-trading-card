@@ -18,6 +18,4 @@
   
   -----------
 
-:point_right: [Project Specification/rubric](https://review.udacity.com/#!/rubrics/151/view)
-
-:point_right: [View Online](https://jtrfs.github.io/animal-trading-card/)
+:point_right: [View Online](https://barmuxa.github.io/animal-trading-card/)
